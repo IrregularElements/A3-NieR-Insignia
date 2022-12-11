@@ -1,0 +1,15 @@
+name = "YoRHa Insignia"
+prefix = "ire_yorha_insignia"
+author = "tsar_bimbo"
+version = "1.0.0"
+
+files = [
+	"mod.cpp",
+	"meta.cpp",
+]
+key_name = "{{author}}"
+
+releasebuild = [
+	"@zip ire_yorhainsignia_{{semver.major}}.{{semver.minor}}"
+]
+
