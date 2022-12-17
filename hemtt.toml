@@ -1,11 +1,12 @@
 name = "YoRHa Insignia"
 prefix = "ire_yorha_insignia"
 author = "tsar_bimbo"
-version = "1.0.0"
+version = "1.1.0"
 
 files = [
 	"mod.cpp",
 	"meta.cpp",
+	"logo_yorha_insignia_ca.paa",
 ]
 key_name = "{{author}}"
 

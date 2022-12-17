@@ -16,9 +16,9 @@ class CfgPatches {
 		requiredVersion = 2.02;
 		requiredAddons[] = {};
 		author = "tsar_bimbo";
-		version = 1.0;
-		versionStr = "1.0.0.0";
-		versionAr[] = {1, 0, 0, 0};
+		version = 1.1;
+		versionStr = "1.1.0.0";
+		versionAr[] = {1, 1, 0, 0};
 	};
 };
 
